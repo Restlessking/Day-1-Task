@@ -19,10 +19,6 @@ Write a blog about objects and its internal representation in Javascript :-
            //or
      objectName[expression]"
 
-     Example :-
-
-     var myCar = new Object();
-
  Example:-
 
    var myCar = new Object();
